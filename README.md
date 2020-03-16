@@ -5,7 +5,11 @@
 
 A small project to extract case numbers from public reports. and have a lightweight API.
 
-Currently scripts for berlin.de and rki.de.
+## API
+
+The api is published as a simple Github page
+
+[https://dirkschumacher.github.io/covid-api/latest.json](https://dirkschumacher.github.io/covid-api/latest.json)
 
 ## Contribute
 

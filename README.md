@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-A small project to extract case numbers from public reports. and have a lightweight API.
+A small project to extract case numbers from public reports to have a lightweight API.
 
 ## API
 

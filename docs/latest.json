@@ -1,0 +1,158 @@
+{
+  "berlin.de": {
+    "source": "https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.907568.php",
+    "report_datetime": "2020-03-16 16:30:00 CET",
+    "cases_total": 332,
+    "new_cases_total": 49,
+    "incidence_total": 8.9,
+    "cases": {
+      "by_admin3": [
+        {
+          "place": "Charlottenburg-Wilmersdorf",
+          "cases": 54,
+          "new_cases": 0,
+          "incidence": 15.8
+        },
+        {
+          "place": "Friedrichshain-Kreuzberg",
+          "cases": 33,
+          "new_cases": 3,
+          "incidence": 11.4
+        },
+        {
+          "place": "Lichtenberg",
+          "cases": 12,
+          "new_cases": 4,
+          "incidence": 4.1
+        },
+        {
+          "place": "Marzahn-Hellersdorf",
+          "cases": 12,
+          "new_cases": 1,
+          "incidence": 4.1
+        },
+        {
+          "place": "Mitte",
+          "cases": 51,
+          "new_cases": 6,
+          "incidence": 13.3
+        },
+        {
+          "place": "Neukölln",
+          "cases": 21,
+          "new_cases": 0,
+          "incidence": 6.3
+        },
+        {
+          "place": "Pankow",
+          "cases": 41,
+          "new_cases": 15,
+          "incidence": 10.1
+        },
+        {
+          "place": "Reinickendorf",
+          "cases": 13,
+          "new_cases": 2,
+          "incidence": 4.9
+        },
+        {
+          "place": "Spandau",
+          "cases": 11,
+          "new_cases": 2,
+          "incidence": 4.5
+        },
+        {
+          "place": "Steglitz-Zehlendorf",
+          "cases": 40,
+          "new_cases": 6,
+          "incidence": 13
+        },
+        {
+          "place": "Tempelhof-Schöneberg",
+          "cases": 31,
+          "new_cases": 4,
+          "incidence": 8.8
+        },
+        {
+          "place": "Treptow-Köpenick",
+          "cases": 14,
+          "new_cases": 6,
+          "incidence": 5.2
+        }
+      ]
+    }
+  },
+  "rki.de": {
+    "source": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
+    "report_datetime": "2020-03-16 19:00:00 CET",
+    "cases_total": 6012,
+    "cases": {
+      "by_admin2": [
+        {
+          "place": "Baden-Württemberg",
+          "cases": 1105
+        },
+        {
+          "place": "Bayern",
+          "cases": 1067
+        },
+        {
+          "place": "Berlin",
+          "cases": 300
+        },
+        {
+          "place": "Brandenburg",
+          "cases": 94
+        },
+        {
+          "place": "Bremen",
+          "cases": 56
+        },
+        {
+          "place": "Hamburg",
+          "cases": 260
+        },
+        {
+          "place": "Hessen",
+          "cases": 342
+        },
+        {
+          "place": "Mecklenburg-Vorpommern",
+          "cases": 51
+        },
+        {
+          "place": "Niedersachsen",
+          "cases": 391
+        },
+        {
+          "place": "Nordrhein-Westfalen",
+          "cases": 1541
+        },
+        {
+          "place": "Rheinland-Pfalz",
+          "cases": 325
+        },
+        {
+          "place": "Saarland",
+          "cases": 85
+        },
+        {
+          "place": "Sachsen",
+          "cases": 140
+        },
+        {
+          "place": "Sachsen-Anhalt",
+          "cases": 77
+        },
+        {
+          "place": "Schleswig-Holstein",
+          "cases": 123
+        },
+        {
+          "place": "Thüringen",
+          "cases": 55
+        }
+      ]
+    }
+  }
+}

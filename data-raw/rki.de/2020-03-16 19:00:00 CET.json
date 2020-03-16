@@ -1,0 +1,73 @@
+{
+  "source": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
+  "report_datetime": "2020-03-16 19:00:00 CET",
+  "cases_total": 6012,
+  "cases": {
+    "by_admin2": [
+      {
+        "place": "Baden-Württemberg",
+        "cases": 1105
+      },
+      {
+        "place": "Bayern",
+        "cases": 1067
+      },
+      {
+        "place": "Berlin",
+        "cases": 300
+      },
+      {
+        "place": "Brandenburg",
+        "cases": 94
+      },
+      {
+        "place": "Bremen",
+        "cases": 56
+      },
+      {
+        "place": "Hamburg",
+        "cases": 260
+      },
+      {
+        "place": "Hessen",
+        "cases": 342
+      },
+      {
+        "place": "Mecklenburg-Vorpommern",
+        "cases": 51
+      },
+      {
+        "place": "Niedersachsen",
+        "cases": 391
+      },
+      {
+        "place": "Nordrhein-Westfalen",
+        "cases": 1541
+      },
+      {
+        "place": "Rheinland-Pfalz",
+        "cases": 325
+      },
+      {
+        "place": "Saarland",
+        "cases": 85
+      },
+      {
+        "place": "Sachsen",
+        "cases": 140
+      },
+      {
+        "place": "Sachsen-Anhalt",
+        "cases": 77
+      },
+      {
+        "place": "Schleswig-Holstein",
+        "cases": 123
+      },
+      {
+        "place": "Thüringen",
+        "cases": 55
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# Coronacase API in Germany
+# COVID-19 API in Germany
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -7,7 +7,7 @@ A small project to extract case numbers from public reports. and have a lightwei
 
 ## API
 
-The api is published as a simple Github page
+The api is published as a simple Github page and manually updated.
 
 [https://dirkschumacher.github.io/covid-api/latest.json](https://dirkschumacher.github.io/covid-api/latest.json)
 

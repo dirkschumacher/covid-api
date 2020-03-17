@@ -1,156 +1,156 @@
 {
   "berlin.de": {
-    "source": "https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.907568.php",
-    "report_datetime": "2020-03-16 16:30:00 CET",
-    "cases_total": 332,
-    "new_cases_total": 49,
-    "incidence_total": 8.9,
+    "source": "https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.908263.php",
+    "report_datetime": "2020-03-17 16:30:00 CET",
+    "cases_total": 383,
+    "new_cases_total": 51,
+    "incidence_total": 10.2,
     "cases": {
       "by_admin3": [
         {
           "place": "Charlottenburg-Wilmersdorf",
-          "cases": 54,
-          "new_cases": 0,
-          "incidence": 15.8
+          "cases": 57,
+          "new_cases": 3,
+          "incidence": 16.7
         },
         {
           "place": "Friedrichshain-Kreuzberg",
-          "cases": 33,
-          "new_cases": 3,
-          "incidence": 11.4
+          "cases": 40,
+          "new_cases": 7,
+          "incidence": 13.8
         },
         {
           "place": "Lichtenberg",
-          "cases": 12,
+          "cases": 16,
           "new_cases": 4,
-          "incidence": 4.1
+          "incidence": 5.5
         },
         {
           "place": "Marzahn-Hellersdorf",
-          "cases": 12,
-          "new_cases": 1,
-          "incidence": 4.1
+          "cases": 14,
+          "new_cases": 3,
+          "incidence": 5.2
         },
         {
           "place": "Mitte",
-          "cases": 51,
-          "new_cases": 6,
-          "incidence": 13.3
+          "cases": 59,
+          "new_cases": 8,
+          "incidence": 15.4
         },
         {
           "place": "Neukölln",
-          "cases": 21,
-          "new_cases": 0,
-          "incidence": 6.3
+          "cases": 24,
+          "new_cases": 3,
+          "incidence": 7.3
         },
         {
           "place": "Pankow",
-          "cases": 41,
-          "new_cases": 15,
-          "incidence": 10.1
+          "cases": 49,
+          "new_cases": 8,
+          "incidence": 12
         },
         {
           "place": "Reinickendorf",
           "cases": 13,
-          "new_cases": 2,
+          "new_cases": 0,
           "incidence": 4.9
         },
         {
           "place": "Spandau",
           "cases": 11,
-          "new_cases": 2,
+          "new_cases": 0,
           "incidence": 4.5
         },
         {
           "place": "Steglitz-Zehlendorf",
-          "cases": 40,
-          "new_cases": 6,
-          "incidence": 13
+          "cases": 47,
+          "new_cases": 7,
+          "incidence": 15.3
         },
         {
           "place": "Tempelhof-Schöneberg",
-          "cases": 31,
-          "new_cases": 4,
-          "incidence": 8.8
+          "cases": 34,
+          "new_cases": 3,
+          "incidence": 9.7
         },
         {
           "place": "Treptow-Köpenick",
-          "cases": 14,
-          "new_cases": 6,
-          "incidence": 5.2
+          "cases": 19,
+          "new_cases": 5,
+          "incidence": 7
         }
       ]
     }
   },
   "rki.de": {
     "source": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
-    "report_datetime": "2020-03-16 19:00:00 CET",
-    "cases_total": 6012,
+    "report_datetime": "2020-03-17 19:20:00 CET",
+    "cases_total": 7156,
     "cases": {
       "by_admin2": [
         {
           "place": "Baden-Württemberg",
-          "cases": 1105
+          "cases": 1479
         },
         {
           "place": "Bayern",
-          "cases": 1067
+          "cases": 1109
         },
         {
           "place": "Berlin",
-          "cases": 300
+          "cases": 345
         },
         {
           "place": "Brandenburg",
-          "cases": 94
+          "cases": 73
         },
         {
           "place": "Bremen",
-          "cases": 56
+          "cases": 57
         },
         {
           "place": "Hamburg",
-          "cases": 260
+          "cases": 310
         },
         {
           "place": "Hessen",
-          "cases": 342
+          "cases": 373
         },
         {
           "place": "Mecklenburg-Vorpommern",
-          "cases": 51
+          "cases": 45
         },
         {
           "place": "Niedersachsen",
-          "cases": 391
-        },
-        {
-          "place": "Nordrhein-Westfalen",
-          "cases": 1541
-        },
-        {
-          "place": "Rheinland-Pfalz",
           "cases": 325
         },
         {
+          "place": "Nordrhein-Westfalen",
+          "cases": 2105
+        },
+        {
+          "place": "Rheinland-Pfalz",
+          "cases": 442
+        },
+        {
           "place": "Saarland",
-          "cases": 85
+          "cases": 75
         },
         {
           "place": "Sachsen",
-          "cases": 140
+          "cases": 182
         },
         {
           "place": "Sachsen-Anhalt",
-          "cases": 77
+          "cases": 58
         },
         {
           "place": "Schleswig-Holstein",
-          "cases": 123
+          "cases": 127
         },
         {
           "place": "Thüringen",
-          "cases": 55
+          "cases": 51
         }
       ]
     }

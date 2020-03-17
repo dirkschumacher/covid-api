@@ -1,7 +1,7 @@
 library(rvest)
 library(dplyr)
 
-reporting_datetime <- "2020-03-16 19:00:00 CET"
+reporting_datetime <- "2020-03-17 19:20:00 CET"
 raw_table <- html("https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html") %>%
   html_table()
 raw_table <- raw_table[[1]][, 1:2]

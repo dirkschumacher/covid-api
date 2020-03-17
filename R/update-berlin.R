@@ -3,9 +3,9 @@
 library(purrr)
 library(tesseract)
 library(dplyr)
-source_url <- "https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.907568.php"
-table_image <- "https://www.berlin.de/sen/gpg/service/presse/2020/20200316_bezirksverteilung.jpg"
-reporting_datetime <- "2020-03-16 16:30:00 CET"
+source_url <- "https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.908263.php"
+table_image <- "https://www.berlin.de/sen/gpg/service/presse/2020/20200317_bezirksverteilung.jpg"
+reporting_datetime <- "2020-03-17 16:30:00 CET"
 
 
 raw_data <- table_image %>%

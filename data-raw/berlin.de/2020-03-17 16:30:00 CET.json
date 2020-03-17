@@ -1,0 +1,83 @@
+{
+  "source": "https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.908263.php",
+  "report_datetime": "2020-03-17 16:30:00 CET",
+  "cases_total": 383,
+  "new_cases_total": 51,
+  "incidence_total": 10.2,
+  "cases": {
+    "by_admin3": [
+      {
+        "place": "Charlottenburg-Wilmersdorf",
+        "cases": 57,
+        "new_cases": 3,
+        "incidence": 16.7
+      },
+      {
+        "place": "Friedrichshain-Kreuzberg",
+        "cases": 40,
+        "new_cases": 7,
+        "incidence": 13.8
+      },
+      {
+        "place": "Lichtenberg",
+        "cases": 16,
+        "new_cases": 4,
+        "incidence": 5.5
+      },
+      {
+        "place": "Marzahn-Hellersdorf",
+        "cases": 14,
+        "new_cases": 3,
+        "incidence": 5.2
+      },
+      {
+        "place": "Mitte",
+        "cases": 59,
+        "new_cases": 8,
+        "incidence": 15.4
+      },
+      {
+        "place": "Neukölln",
+        "cases": 24,
+        "new_cases": 3,
+        "incidence": 7.3
+      },
+      {
+        "place": "Pankow",
+        "cases": 49,
+        "new_cases": 8,
+        "incidence": 12
+      },
+      {
+        "place": "Reinickendorf",
+        "cases": 13,
+        "new_cases": 0,
+        "incidence": 4.9
+      },
+      {
+        "place": "Spandau",
+        "cases": 11,
+        "new_cases": 0,
+        "incidence": 4.5
+      },
+      {
+        "place": "Steglitz-Zehlendorf",
+        "cases": 47,
+        "new_cases": 7,
+        "incidence": 15.3
+      },
+      {
+        "place": "Tempelhof-Schöneberg",
+        "cases": 34,
+        "new_cases": 3,
+        "incidence": 9.7
+      },
+      {
+        "place": "Treptow-Köpenick",
+        "cases": 19,
+        "new_cases": 5,
+        "incidence": 7.0
+      }
+    ]
+  }
+}
